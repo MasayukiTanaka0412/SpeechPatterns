@@ -1,0 +1,6 @@
+---
+title: ソフトウェア・エンジニアのためのスピーチパターン
+author: 田中 真幸
+rights: © 2021 田中 真幸
+language: ja-JP
+...

@@ -1,0 +1,2 @@
+REM https://qiita.com/sta/items/c88093b1b9da9c77b577
+pandoc -f markdown -t epub3 ビジネスにおける再利用のためのスピーチパターン.md title.txt -o ビジネスにおける再利用のためのスピーチパターン.epub --css stylesheet.css --toc --toc-depth=2 --epub-cover-image=cover.jpg
